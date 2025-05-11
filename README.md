@@ -6,7 +6,14 @@
 ---
 
 ### 🔧 기술 스택
-- **Frontend**: Flutter, React, HTML/CSS
+##Main
+- **Frontend**: Flutter, Dart
+- **Backend**: Firebase
+- **DevOps**: GitHub Actions
+- **Database**: sqflite
+
+##Sub
+- **Frontend**: React, HTML/CSS
 - **Backend**: FastAPI, Python, Firebase
-- **DevOps**: Docker, GitHub Actions, AWS (기초)
-- **Database**: PostgreSQL, SQLite, Firebase Firestore
+- **DevOps**: Docker, GitHub Actions, AWS
+- **Database**: PostgreSQL
