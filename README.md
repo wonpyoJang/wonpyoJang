@@ -20,6 +20,7 @@
 
 ## 경력
 
+교촌치킨 주문 앱
 https://github.com/user-attachments/assets/89898bd7-c70d-45b3-ba2d-af90392640b8
 
 
