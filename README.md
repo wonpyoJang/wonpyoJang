@@ -20,7 +20,9 @@
 
 ## 경력
 
-https://github.com/user-attachments/assets/5fbf2922-d97c-4d6d-a63c-d2079b815e44
+https://github.com/user-attachments/assets/89898bd7-c70d-45b3-ba2d-af90392640b8
+
+
 
 
 
