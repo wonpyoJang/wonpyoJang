@@ -164,6 +164,21 @@
 
 **[아날로그 타이머](https://github.com/wonpyoJang/analog-timer)** — 아날로그 시계 위에 세그먼트 타이머와 스톱워치를 함께 그리는 앱. Flutter(iOS · Android · macOS) + 웹
 
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="assets/timer-desktop.png" width="190" alt="데스크톱 — 타이머 링 · 스톱워치 · 세그먼트" /></td>
+    <td align="center" width="25%"><img src="assets/timer-widget.png" width="190" alt="항상 위 위젯 모드" /></td>
+    <td align="center" width="25%"><img src="assets/timer-overlay.png" width="190" alt="Android 오버레이 시계 · 타이머 pill" /></td>
+    <td align="center" width="25%"><img src="assets/timer-multi.png" width="190" alt="멀티 타이머 동시 실행" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>데스크톱 — 타이머 링 · 스톱워치 · 세그먼트</sub></td>
+    <td align="center"><sub>항상 위 위젯 모드</sub></td>
+    <td align="center"><sub>Android 오버레이 시계 · 타이머 pill</sub></td>
+    <td align="center"><sub>멀티 타이머 동시 실행</sub></td>
+  </tr>
+</table>
+
 ---
 
 ### 📫 연락처
