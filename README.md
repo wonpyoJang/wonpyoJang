@@ -46,7 +46,13 @@
 
 **푸드대시** — 읍천리 주문 앱 (2024.10 ~ 2025.11)
 
-https://github.com/user-attachments/assets/6a5cdc36-2488-4488-bff2-be10595b3e3c
+<p>
+  <img src="assets/eupcheonri-menu.gif" width="240" alt="메뉴 탐색과 장바구니 담기" />
+  &nbsp;
+  <img src="assets/eupcheonri-options.gif" width="240" alt="세트 옵션 선택" />
+  &nbsp;
+  <img src="assets/eupcheonri-checkout.gif" width="240" alt="요청사항 입력과 결제" />
+</p>
 
 **아테나스랩** — 오늘학교 앱, 모바일팀 리드 (2021.08 ~ 2023.10)
 - 시간표 · 급식표 · 학사일정, 일 5만 명 커뮤니티, Bloc · RxDart 아키텍처 전환
