@@ -135,4 +135,3 @@
 ### 📫 연락처
 - 이메일: jangwonpyo0@gmail.com
 - 인스타그램: [@dev.logos](https://www.instagram.com/dev.logos?igsh=YWFoMjRnYWgyYTR6&utm_source=qr)
-- 링크드인: [Wonpyo Jang](https://www.linkedin.com/in/wonpyo-jang-722408185/)
