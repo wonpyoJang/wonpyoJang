@@ -10,7 +10,7 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 
 - Multi-brand ordering apps including *Kyochon Chicken* (2M sign-ups) — **crash-free users 88% → 98%** · fixed circular event flows · introduced DI
 - Led the 4-person mobile team for *Today School* (1.5M sign-ups) — architecture migration, CI/CD with GitHub Actions + Fastlane, staged rollouts
-- Software as a Medical Device (SaMD): musculoskeletal measurement app for clinicians (Galaxy Tab) — full-stack, English (US) and French localization, customer demos and delivery
+- Software as a Medical Device (SaMD): musculoskeletal measurement app for clinicians (Galaxy Tab) — English (US) and French localization, demo and hospital delivery features / full-stack prototype for back brace manufacturing (app + admin web)
 - National Supercomputing Competition, awarded 3 times (Top Excellence Award twice)
 
 ---
@@ -23,16 +23,70 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 - **CI/CD**: GitHub Actions, Fastlane, flavor-based environments, staged rollouts
 - **Monitoring · Analytics**: Crashlytics, Sentry, GA4, Amplitude
 - **Realtime**: WebRTC (Agora), FCM silent push
-- **Also**: Next.js · Prisma · PostgreSQL (side-project admin), Python (FastAPI), React, Docker, AWS, Datadog, Jira, Claude Code · Cursor
+- **Also**: Next.js · Prisma · PostgreSQL (Orthocare prototype admin), Python (FastAPI), React, Docker, AWS, Datadog, Jira, Claude Code · Cursor
 
 ---
 
 ### 💼 Experience
 
-**Orthocare** — SaMD (musculoskeletal measurement) app for clinicians (2026.04 – 2026.10)
-- Full-stack development of the Galaxy Tab clinician app and its backend
-- English (US) and French localization
-- Customer demos and delivery support
+**Orthocare** — Medical device software · orthosis manufacturing prototype (2026.04 – 2026.10)
+- SaMD (musculoskeletal measurement) clinician app (Galaxy Tab), app development: English (US) and French localization, features for customer demos and hospital delivery
+- Full-stack prototype for back brace manufacturing: Flutter app + admin web (Next.js · Prisma · PostgreSQL) (screens below use demo data)
+
+▸ Gamification — history and quality trends, titles and badges, a character to raise, a ladder mini-game
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="Badge unlock animation" /></td>
+    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="Ladder game animation" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Badge unlock animation</sub></td>
+    <td align="center"><sub>Ladder game animation</sub></td>
+  </tr>
+</table>
+
+▸ 1:1 chat with clinicians
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/scan-chat-enter.gif" width="240" alt="Choose the display name before entering a chat" /></td>
+    <td align="center" width="33%"><img src="assets/scan-chat-send.gif" width="240" alt="Send messages and files" /></td>
+    <td align="center" width="33%"><img src="assets/scan-chat-search.gif" width="240" alt="Refresh chat list → search messages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Choose the display name before entering a chat</sub></td>
+    <td align="center"><sub>Send messages and files</sub></td>
+    <td align="center"><sub>Refresh chat list → search messages</sub></td>
+  </tr>
+</table>
+
+▸ Admin web — 3D conversion pipeline, operations monitoring, usability feedback, member management
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/admin-conversion-stats.gif" alt="3D conversion stats — period switch, duration, success rate" /></td>
+    <td align="center" width="50%"><img src="assets/admin-workers.gif" alt="Conversion worker list → details and live logs" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>3D conversion stats — period switch, duration, success rate</sub></td>
+    <td align="center"><sub>Conversion worker list → details and live logs</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="assets/admin-performance.gif" alt="Response time per route (p95) — period switch" /></td>
+    <td align="center" width="50%"><img src="assets/admin-feedback.png" alt="Usability feedback — NPS and CSAT trends, report handling" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Response time per route (p95) — period switch</sub></td>
+    <td align="center"><sub>Usability feedback — NPS and CSAT trends, report handling</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/admin-members.png" width="50%" alt="Member management — sign-up approval, role assignment, access removal" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><sub>Member management — sign-up approval, role assignment, access removal</sub></td>
+  </tr>
+</table>
 
 **FoodDash** — White-label delivery ordering apps for franchises · Mobile Engineer (2023.11 – 2025.12 · App 2 · BE 4 · FE 2)
 - Built and maintained features for multi-brand apps: *Kyochon Chicken* (2M sign-ups), *Eupcheonri 382*, *Jadam Chicken*, and more
@@ -113,59 +167,6 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 ---
 
 ### 🛠 Projects
-
-**Scan capture app (personal side project)** — scan history and quality trends, titles and badges, a character to raise, a ladder mini-game, 1:1 chat with clinicians (screens use demo data)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="Badge unlock animation" /></td>
-    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="Ladder game animation" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Badge unlock animation</sub></td>
-    <td align="center"><sub>Ladder game animation</sub></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="assets/scan-chat-enter.gif" width="240" alt="Choose the display name before entering a chat" /></td>
-    <td align="center" width="33%"><img src="assets/scan-chat-send.gif" width="240" alt="Send messages and files" /></td>
-    <td align="center" width="33%"><img src="assets/scan-chat-search.gif" width="240" alt="Refresh chat list → search messages" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Choose the display name before entering a chat</sub></td>
-    <td align="center"><sub>Send messages and files</sub></td>
-    <td align="center"><sub>Refresh chat list → search messages</sub></td>
-  </tr>
-</table>
-
-**Admin web** (back office for the scan capture app · Next.js · Prisma · PostgreSQL) — 3D conversion pipeline, operations monitoring, usability feedback, member management (screens use demo data)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="assets/admin-conversion-stats.gif" alt="3D conversion stats — period switch, duration, success rate" /></td>
-    <td align="center" width="50%"><img src="assets/admin-workers.gif" alt="Conversion worker list → details and live logs" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>3D conversion stats — period switch, duration, success rate</sub></td>
-    <td align="center"><sub>Conversion worker list → details and live logs</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src="assets/admin-performance.gif" alt="Response time per route (p95) — period switch" /></td>
-    <td align="center" width="50%"><img src="assets/admin-feedback.png" alt="Usability feedback — NPS and CSAT trends, report handling" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Response time per route (p95) — period switch</sub></td>
-    <td align="center"><sub>Usability feedback — NPS and CSAT trends, report handling</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="assets/admin-members.png" width="50%" alt="Member management — sign-up approval, role assignment, access removal" /></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><sub>Member management — sign-up approval, role assignment, access removal</sub></td>
-  </tr>
-</table>
 
 **[AI emotion-analysis diary app](https://github.com/wonpyoJang/diary_mobile_client)** — Flutter, BLoC, generative AI integration
 

@@ -10,7 +10,7 @@
 
 - 누적 가입자 200만 「교촌치킨」 등 멀티 브랜드 주문앱 — **Crash-free 사용자 88% → 98%** · 순환 이벤트 구조 개선 · DI 도입
 - 누적 가입자 150만 「오늘학교」 모바일팀(4명) 리드 — 아키텍처 전환, GitHub Actions + Fastlane CI/CD · 점진적 배포 구축
-- 의료기기 소프트웨어(SaMD) 근골격계 측정 시술자 앱(Galaxy Tab) — 풀스택, 영어(미국) · 프랑스어 현지화, 시연 · 납품
+- 의료기기 소프트웨어(SaMD) 근골격계 측정 시술자 앱(Galaxy Tab) — 영어(미국) · 프랑스어 현지화, 시연 · 병원 납품 기능 / 허리보호대 제작용 시제품 풀스택(앱 + 어드민 웹)
 - 국가슈퍼컴퓨팅경진대회 3회 수상 (최우수상 2회)
 
 ---
@@ -23,16 +23,70 @@
 - **CI/CD**: GitHub Actions, Fastlane, flavor 기반 환경 분리, 점진적 배포
 - **Monitoring · Analytics**: Crashlytics, Sentry, GA4, Amplitude
 - **Realtime**: WebRTC(Agora), FCM 사일런트 푸시
-- **Also**: Next.js · Prisma · PostgreSQL(사이드 프로젝트 어드민), Python(FastAPI), React, Docker, AWS, Datadog, Jira, Claude Code · Cursor
+- **Also**: Next.js · Prisma · PostgreSQL(올쏘케어 시제품 어드민), Python(FastAPI), React, Docker, AWS, Datadog, Jira, Claude Code · Cursor
 
 ---
 
 ### 💼 경력
 
-**올쏘케어** — SaMD(근골격계 측정) 시술자용 앱 (2026.04 ~ 2026.10)
-- Galaxy Tab 시술자 앱과 백엔드 풀스택 개발
-- 영어(미국) · 프랑스어 현지화
-- 고객 시연과 납품 대응
+**올쏘케어** — 의료기기 SW · 보조기 제작 시제품 (2026.04 ~ 2026.10)
+- SaMD(근골격계 측정) 시술자 앱(Galaxy Tab) 앱 개발: 영어(미국) · 프랑스어 현지화, 고객 시연용 기능, 병원 납품용 기능
+- 허리보호대 제작용 시제품 풀스택 개발: Flutter 앱 + 어드민 웹(Next.js · Prisma · PostgreSQL) (아래 화면은 데모 데이터)
+
+▸ 게이미피케이션 — 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="배지 획득 연출" /></td>
+    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="사다리 타기 애니메이션" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>배지 획득 연출</sub></td>
+    <td align="center"><sub>사다리 타기 애니메이션</sub></td>
+  </tr>
+</table>
+
+▸ 의료진 1:1 채팅
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/scan-chat-enter.gif" width="240" alt="대화방 입장 전 상대에게 보일 이름 선택" /></td>
+    <td align="center" width="33%"><img src="assets/scan-chat-send.gif" width="240" alt="메시지 · 파일 대화와 전송" /></td>
+    <td align="center" width="33%"><img src="assets/scan-chat-search.gif" width="240" alt="대화 목록 갱신 → 메시지 검색" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>대화방 입장 전 상대에게 보일 이름 선택</sub></td>
+    <td align="center"><sub>메시지 · 파일 대화와 전송</sub></td>
+    <td align="center"><sub>대화 목록 갱신 → 메시지 검색</sub></td>
+  </tr>
+</table>
+
+▸ 어드민 웹 — 3D 변환 파이프라인 · 운영 모니터링 · 사용성 피드백 · 회원 관리
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/admin-conversion-stats.gif" alt="3D 변환 통계 — 기간 전환 · 소요시간 · 성공률" /></td>
+    <td align="center" width="50%"><img src="assets/admin-workers.gif" alt="변환 Worker 목록 → 상세 · 실시간 로그" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>3D 변환 통계 — 기간 전환 · 소요시간 · 성공률</sub></td>
+    <td align="center"><sub>변환 Worker 목록 → 상세 · 실시간 로그</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="assets/admin-performance.gif" alt="라우트별 응답시간(p95) — 기간 전환" /></td>
+    <td align="center" width="50%"><img src="assets/admin-feedback.png" alt="사용성 피드백 — NPS · CSAT 추이와 리포트 처리" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>라우트별 응답시간(p95) — 기간 전환</sub></td>
+    <td align="center"><sub>사용성 피드백 — NPS · CSAT 추이와 리포트 처리</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/admin-members.png" width="50%" alt="회원 관리 — 가입 승인 · 역할 배정 · 접근 해제" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><sub>회원 관리 — 가입 승인 · 역할 배정 · 접근 해제</sub></td>
+  </tr>
+</table>
 
 **푸드대시** — 프랜차이즈 자사 배달 주문 앱 · 모바일 엔지니어 (2023.11 ~ 2025.12 · App 2 · BE 4 · FE 2)
 - 교촌치킨(누적 가입자 200만) · 읍천리382 · 자담치킨 등 멀티 브랜드 앱 신규 기능 개발과 운영
@@ -113,59 +167,6 @@
 ---
 
 ### 🛠 프로젝트
-
-**스캔 촬영 앱 (개인 사이드 프로젝트)** — 스캔 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임, 의료진 1:1 채팅 (화면은 데모 데이터)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="배지 획득 연출" /></td>
-    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="사다리 타기 애니메이션" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>배지 획득 연출</sub></td>
-    <td align="center"><sub>사다리 타기 애니메이션</sub></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="assets/scan-chat-enter.gif" width="240" alt="대화방 입장 전 상대에게 보일 이름 선택" /></td>
-    <td align="center" width="33%"><img src="assets/scan-chat-send.gif" width="240" alt="메시지 · 파일 대화와 전송" /></td>
-    <td align="center" width="33%"><img src="assets/scan-chat-search.gif" width="240" alt="대화 목록 갱신 → 메시지 검색" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>대화방 입장 전 상대에게 보일 이름 선택</sub></td>
-    <td align="center"><sub>메시지 · 파일 대화와 전송</sub></td>
-    <td align="center"><sub>대화 목록 갱신 → 메시지 검색</sub></td>
-  </tr>
-</table>
-
-**어드민 웹** (스캔 촬영 앱 백오피스 · Next.js · Prisma · PostgreSQL) — 3D 변환 파이프라인 · 운영 모니터링 · 사용성 피드백 · 회원 관리 (화면은 데모 데이터)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="assets/admin-conversion-stats.gif" alt="3D 변환 통계 — 기간 전환 · 소요시간 · 성공률" /></td>
-    <td align="center" width="50%"><img src="assets/admin-workers.gif" alt="변환 Worker 목록 → 상세 · 실시간 로그" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>3D 변환 통계 — 기간 전환 · 소요시간 · 성공률</sub></td>
-    <td align="center"><sub>변환 Worker 목록 → 상세 · 실시간 로그</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src="assets/admin-performance.gif" alt="라우트별 응답시간(p95) — 기간 전환" /></td>
-    <td align="center" width="50%"><img src="assets/admin-feedback.png" alt="사용성 피드백 — NPS · CSAT 추이와 리포트 처리" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>라우트별 응답시간(p95) — 기간 전환</sub></td>
-    <td align="center"><sub>사용성 피드백 — NPS · CSAT 추이와 리포트 처리</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="assets/admin-members.png" width="50%" alt="회원 관리 — 가입 승인 · 역할 배정 · 접근 해제" /></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><sub>회원 관리 — 가입 승인 · 역할 배정 · 접근 해제</sub></td>
-  </tr>
-</table>
 
 **[AI 기반 감정 분석 일기 앱](https://github.com/wonpyoJang/diary_mobile_client)** — Flutter, BLoC, 생성형 AI 연동
 
