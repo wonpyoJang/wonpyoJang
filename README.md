@@ -100,7 +100,7 @@
 
 ### 🛠 프로젝트
 
-**스캔 촬영 앱 (개인 사이드 프로젝트)** — 스캔 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임 (화면은 데모 데이터)
+**스캔 촬영 앱 (개인 사이드 프로젝트)** — 스캔 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임, 의료진 1:1 채팅 (화면은 데모 데이터)
 
 <table>
   <tr>
@@ -110,6 +110,19 @@
   <tr>
     <td align="center"><sub>배지 획득 연출</sub></td>
     <td align="center"><sub>사다리 타기 애니메이션</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/scan-chat-enter.gif" width="240" alt="대화방 입장 전 상대에게 보일 이름 선택" /></td>
+    <td align="center" width="33%"><img src="assets/scan-chat-send.gif" width="240" alt="메시지 · 파일 대화와 전송" /></td>
+    <td align="center" width="33%"><img src="assets/scan-chat-search.gif" width="240" alt="대화 목록 갱신 → 메시지 검색" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>대화방 입장 전 상대에게 보일 이름 선택</sub></td>
+    <td align="center"><sub>메시지 · 파일 대화와 전송</sub></td>
+    <td align="center"><sub>대화 목록 갱신 → 메시지 검색</sub></td>
   </tr>
 </table>
 
