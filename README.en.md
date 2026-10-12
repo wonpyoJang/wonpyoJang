@@ -4,12 +4,12 @@
 
 > Owned apps with 50K–100K DAU · Led a 4-person mobile team · Crash-free 88% → 98% · Shipped a medical device (SaMD) app
 
-I've owned apps for services with 50K–100K DAU, such as *Onul School* and *Kyochon Chicken*, and restructured them so that several people can work on them at once and keep them maintainable, without breaking the legacy code.
+I've owned apps for services with 50K–100K DAU, such as *Today School* and *Kyochon Chicken*, and restructured them so that several people can work on them at once and keep them maintainable, without breaking the legacy code.
 
 *Comfortable communicating in written English — technical docs, papers, and App Store reviewer correspondence.*
 
 - Multi-brand ordering apps including *Kyochon Chicken* (2M sign-ups) — **crash-free users 88% → 98%**, fixed circular event flows, introduced DI
-- Led the 4-person mobile team for *Onul School* (1.5M sign-ups) — architecture migration, CI/CD with GitHub Actions + Fastlane, staged rollouts
+- Led the 4-person mobile team for *Today School* (1.5M sign-ups) — architecture migration, CI/CD with GitHub Actions + Fastlane, staged rollouts
 - Software as a Medical Device (SaMD): musculoskeletal measurement app for clinicians (Galaxy Tab) — full-stack, US and French versions, customer demos and delivery
 - National Supercomputing Competition, awarded 3 times (Grand Prize twice)
 
@@ -71,8 +71,8 @@ I've owned apps for services with 50K–100K DAU, such as *Onul School* and *Kyo
   </tr>
 </table>
 
-**Athenaslab** — *Onul School* app · Client Chapter Lead (2021.08 – 2023.10)
-- *Onul School* (1.5M sign-ups): timetable, school meals, academic calendar, and a community with posts, comments and GIF stickers (Flutter, BLoC, RxDart, Injectable, Hive)
+**Athenaslab** — *Today School* app · Client Chapter Lead (2021.08 – 2023.10)
+- *Today School* (1.5M sign-ups): timetable, school meals, academic calendar, and a community with posts, comments and GIF stickers (Flutter, BLoC, RxDart, Injectable, Hive)
 - Migrated to a layered architecture with DI and an RxDart global event bus; dynamic board creation, multiple profiles for timetable and community, home summary
 - Led a 4-person mobile team: 2-week sprints, OKRs, onboarding docs, code, design and API spec reviews, design system collaboration
 - Automated builds and store releases with GitHub Actions + Fastlane; flavor separation to stop dev builds from reaching production; moved from all-at-once to staged rollouts
