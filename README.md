@@ -126,24 +126,30 @@
   </tr>
 </table>
 
-**어드민 웹** — 3D 변환 파이프라인 · 운영 모니터링 · 사용성 피드백 (화면은 데모 데이터)
+**어드민 웹** — 3D 변환 파이프라인 · 운영 모니터링 · 사용성 피드백 · 회원 관리 (화면은 데모 데이터)
 
 <table>
   <tr>
-    <td align="center" width="50%"><img src="assets/admin-conversion-stats.png" alt="3D 변환 통계 — 소요시간 · 성공률 · 단계별 처리시간" /></td>
-    <td align="center" width="50%"><img src="assets/admin-workers.png" alt="변환 Worker 상태와 실시간 로그" /></td>
+    <td align="center" width="50%"><img src="assets/admin-conversion-stats.gif" alt="3D 변환 통계 — 기간 전환 · 소요시간 · 성공률" /></td>
+    <td align="center" width="50%"><img src="assets/admin-workers.gif" alt="변환 Worker 목록 → 상세 · 실시간 로그" /></td>
   </tr>
   <tr>
-    <td align="center"><sub>3D 변환 통계 — 소요시간 · 성공률 · 단계별 처리시간</sub></td>
-    <td align="center"><sub>변환 Worker 상태와 실시간 로그</sub></td>
+    <td align="center"><sub>3D 변환 통계 — 기간 전환 · 소요시간 · 성공률</sub></td>
+    <td align="center"><sub>변환 Worker 목록 → 상세 · 실시간 로그</sub></td>
   </tr>
   <tr>
+    <td align="center" width="50%"><img src="assets/admin-performance.gif" alt="라우트별 응답시간(p95) — 기간 전환" /></td>
     <td align="center" width="50%"><img src="assets/admin-feedback.png" alt="사용성 피드백 — NPS · CSAT 추이와 리포트 처리" /></td>
-    <td align="center" width="50%"><img src="assets/admin-performance.png" alt="라우트별 응답시간(p95) 모니터링" /></td>
   </tr>
   <tr>
+    <td align="center"><sub>라우트별 응답시간(p95) — 기간 전환</sub></td>
     <td align="center"><sub>사용성 피드백 — NPS · CSAT 추이와 리포트 처리</sub></td>
-    <td align="center"><sub>라우트별 응답시간(p95) 모니터링</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="assets/admin-members.png" alt="회원 관리 — 가입 승인 · 역할 배정 · 접근 해제" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>회원 관리 — 가입 승인 · 역할 배정 · 접근 해제</sub></td>
   </tr>
 </table>
 
