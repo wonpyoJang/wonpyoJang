@@ -32,13 +32,6 @@
 
 **올쏘케어** — SaMD(근골격계 측정) 시술자용 앱 (2026.04 ~ 2026.10)
 - Galaxy Tab 시술자 앱 풀스택 개발, 미국 · 프랑스어 버전 대응, 시연 · 납품 관리
-- 게이미피케이션: 배지 획득 연출, 사다리 타기 미니게임 (아래 화면은 데모 데이터)
-
-<p>
-  <img src="assets/orthocare-badge.gif" width="240" alt="배지 획득 연출" />
-  &nbsp;
-  <img src="assets/orthocare-ladder.gif" width="240" alt="사다리 타기 애니메이션" />
-</p>
 
 **푸드대시** — 교촌치킨 주문 앱 (2023.11 ~ 2025.11)
 - 스탬프 · 상품권 · 쿠폰 · 메뉴 · 회원 · 주문 상태 알림, 본인인증/CI 로그인, 사일런트 푸시
@@ -61,6 +54,14 @@ https://github.com/user-attachments/assets/e386fbed-0f16-4c06-b8bf-503cf450b49c
 ---
 
 ### 🛠 프로젝트
+
+**스캔 촬영 앱 (개인 사이드 프로젝트)** — 스캔 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임 (화면은 데모 데이터)
+
+<p>
+  <img src="assets/scan-badge.gif" width="240" alt="배지 획득 연출" />
+  &nbsp;
+  <img src="assets/scan-ladder.gif" width="240" alt="사다리 타기 애니메이션" />
+</p>
 
 **[AI 기반 감정 분석 일기 앱](https://github.com/wonpyoJang/diary_mobile_client)** — Flutter, Bloc, 생성형 AI 연동
 
