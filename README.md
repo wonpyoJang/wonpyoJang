@@ -57,8 +57,21 @@
 **아테나스랩** — 오늘학교 앱, 모바일팀 리드 (2021.08 ~ 2023.10)
 - 시간표 · 급식표 · 학사일정, 일 5만 명 커뮤니티, Bloc · RxDart 아키텍처 전환
 
-https://github.com/user-attachments/assets/4566cec7-da65-4726-b540-5d301b1ba4f0
-https://github.com/user-attachments/assets/e386fbed-0f16-4c06-b8bf-503cf450b49c
+<p>
+  <img src="assets/onulschool-timetable.gif" width="240" alt="시간표 과목 입력" />
+  &nbsp;
+  <img src="assets/onulschool-meal.gif" width="240" alt="급식표" />
+  &nbsp;
+  <img src="assets/onulschool-calendar.gif" width="240" alt="학사일정 · 일정 추가" />
+</p>
+
+<p>
+  <img src="assets/onulschool-feed.gif" width="240" alt="커뮤니티 피드" />
+  &nbsp;
+  <img src="assets/onulschool-vote.gif" width="240" alt="투표 게시글" />
+  &nbsp;
+  <img src="assets/onulschool-comments.gif" width="240" alt="댓글과 글쓰기" />
+</p>
 
 **제트서브** — 외주 (2020.04 ~ 2021.07)
 - 동남아 웹툰 플랫폼 런칭, Flame 게임엔진 + WebRTC 음성 채팅 RPG 앱
@@ -77,7 +90,13 @@ https://github.com/user-attachments/assets/e386fbed-0f16-4c06-b8bf-503cf450b49c
 
 **[AI 기반 감정 분석 일기 앱](https://github.com/wonpyoJang/diary_mobile_client)** — Flutter, Bloc, 생성형 AI 연동
 
-https://github.com/user-attachments/assets/34c3839f-7c0c-49b0-9875-c745cda1c743
+<p>
+  <img src="assets/diary-write.gif" width="240" alt="일기 작성" />
+  &nbsp;
+  <img src="assets/diary-emotion.gif" width="240" alt="AI 감정 분석" />
+  &nbsp;
+  <img src="assets/diary-card.gif" width="240" alt="감정 카드 생성 · 저장" />
+</p>
 
 **[아날로그 타이머](https://github.com/wonpyoJang/analog-timer)** — 아날로그 시계 위에 세그먼트 타이머와 스톱워치를 함께 그리는 앱. Flutter(iOS · Android · macOS) + 웹
 
