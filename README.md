@@ -44,8 +44,6 @@
   <img src="assets/kyochon-checkout.gif" width="240" alt="쿠폰 적용과 결제수단 선택" />
 </p>
 
-[▶ 전체 주문 흐름 영상 보기](https://github.com/user-attachments/assets/89898bd7-c70d-45b3-ba2d-af90392640b8)
-
 **푸드대시** — 읍천리 주문 앱 (2024.10 ~ 2025.11)
 
 https://github.com/user-attachments/assets/6a5cdc36-2488-4488-bff2-be10595b3e3c
