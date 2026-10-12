@@ -1,10 +1,12 @@
+**한국어** · [English](README.en.md)
+
 ## 장원표 · Flutter 앱 개발자 (6년차)
 
 > DAU 5~10만 서비스 앱 담당 · 4인 모바일팀 리드 · Crash-free 88% → 98% · 의료기기(SaMD) 앱 납품
 
 「오늘학교」 · 「교촌치킨」 등 DAU 5~10만 서비스의 앱을 맡아, 레거시를 지키면서 여러 명이 동시에 작업해도 유지보수하기 쉬운 구조로 바꿔 왔습니다.
 
-*Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). Business-level English — technical docs, papers, and App Store reviewer communication.*
+*Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). Comfortable communicating in written English — technical docs, papers, and App Store reviewer correspondence.*
 
 - 누적 가입자 200만 「교촌치킨」 등 멀티 브랜드 주문앱 — **Crash-free 사용자 88% → 98%**, 순환 이벤트 구조 개선 · DI 도입
 - 누적 가입자 150만 「오늘학교」 모바일팀(4명) 리드 — 아키텍처 전환, GitHub Actions + Fastlane CI/CD · 점진적 배포 구축
@@ -30,7 +32,7 @@
 **올쏘케어** — SaMD(근골격계 측정) 시술자용 앱 (2026.04 ~ 2026.10)
 - Galaxy Tab 시술자 앱과 백엔드 풀스택 개발
 - 미국 · 프랑스어 버전 대응(다국어)
-- 고객 시연과 납품 일정 관리
+- 고객 시연과 납품 대응
 
 **푸드대시** — 프랜차이즈 자사 배달 주문 앱 · 모바일 엔지니어 (2023.11 ~ 2025.12 · App 2 · BE 4 · FE 2)
 - 교촌치킨(누적 가입자 200만) · 읍천리382 · 자담치킨 등 멀티 브랜드 앱 신규 기능 개발과 운영
