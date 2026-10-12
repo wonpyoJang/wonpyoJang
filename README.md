@@ -8,9 +8,9 @@
 
 *Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). Comfortable communicating in written English — technical docs, papers, and App Store reviewer correspondence.*
 
-- 누적 가입자 200만 「교촌치킨」 등 멀티 브랜드 주문앱 — **Crash-free 사용자 88% → 98%**, 순환 이벤트 구조 개선 · DI 도입
+- 누적 가입자 200만 「교촌치킨」 등 멀티 브랜드 주문앱 — **Crash-free 사용자 88% → 98%** · 순환 이벤트 구조 개선 · DI 도입
 - 누적 가입자 150만 「오늘학교」 모바일팀(4명) 리드 — 아키텍처 전환, GitHub Actions + Fastlane CI/CD · 점진적 배포 구축
-- 의료기기 소프트웨어(SaMD) 근골격계 측정 시술자 앱(Galaxy Tab) — 풀스택, 미국 · 프랑스어 버전, 시연 · 납품
+- 의료기기 소프트웨어(SaMD) 근골격계 측정 시술자 앱(Galaxy Tab) — 풀스택, 영어(미국) · 프랑스어 현지화, 시연 · 납품
 - 국가슈퍼컴퓨팅경진대회 3회 수상 (최우수상 2회)
 
 ---
@@ -31,7 +31,7 @@
 
 **올쏘케어** — SaMD(근골격계 측정) 시술자용 앱 (2026.04 ~ 2026.10)
 - Galaxy Tab 시술자 앱과 백엔드 풀스택 개발
-- 미국 · 프랑스어 버전 대응(다국어)
+- 영어(미국) · 프랑스어 현지화
 - 고객 시연과 납품 대응
 
 **푸드대시** — 프랜차이즈 자사 배달 주문 앱 · 모바일 엔지니어 (2023.11 ~ 2025.12 · App 2 · BE 4 · FE 2)

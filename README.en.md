@@ -2,16 +2,16 @@
 
 ## Wonpyo Jang · Flutter App Developer (6 years)
 
-> Owned apps with 50K–100K DAU · Led a 4-person mobile team · Crash-free 88% → 98% · Shipped a medical device (SaMD) app
+> Owned apps with 50K–100K DAU · Led a 4-person mobile team · Crash-free 88% → 98% · Built and delivered a SaMD clinician app
 
-I've owned apps for services with 50K–100K DAU, such as *Today School* and *Kyochon Chicken*, and restructured them so that several people can work on them at once and keep them maintainable, without breaking the legacy code.
+Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). I've owned apps serving 50K–100K DAU, such as *Today School* and *Kyochon Chicken*, and restructured their legacy codebases so multiple engineers could ship in parallel without breaking what already worked.
 
 *Comfortable communicating in written English — technical docs, papers, and App Store reviewer correspondence.*
 
-- Multi-brand ordering apps including *Kyochon Chicken* (2M sign-ups) — **crash-free users 88% → 98%**, fixed circular event flows, introduced DI
+- Multi-brand ordering apps including *Kyochon Chicken* (2M sign-ups) — **crash-free users 88% → 98%** · fixed circular event flows · introduced DI
 - Led the 4-person mobile team for *Today School* (1.5M sign-ups) — architecture migration, CI/CD with GitHub Actions + Fastlane, staged rollouts
-- Software as a Medical Device (SaMD): musculoskeletal measurement app for clinicians (Galaxy Tab) — full-stack, US and French versions, customer demos and delivery
-- National Supercomputing Competition, awarded 3 times (Grand Prize twice)
+- Software as a Medical Device (SaMD): musculoskeletal measurement app for clinicians (Galaxy Tab) — full-stack, English (US) and French localization, customer demos and delivery
+- National Supercomputing Competition, awarded 3 times (Top Excellence Award twice)
 
 ---
 
@@ -31,15 +31,15 @@ I've owned apps for services with 50K–100K DAU, such as *Today School* and *Ky
 
 **Orthocare** — SaMD (musculoskeletal measurement) app for clinicians (2026.04 – 2026.10)
 - Full-stack development of the Galaxy Tab clinician app and its backend
-- US and French versions (localization)
+- English (US) and French localization
 - Customer demos and delivery support
 
 **FoodDash** — White-label delivery ordering apps for franchises · Mobile Engineer (2023.11 – 2025.12 · App 2 · BE 4 · FE 2)
-- Built and ran new features for multi-brand apps: *Kyochon Chicken* (2M sign-ups), *Eupcheonri 382*, *Jadam Chicken*, and more
+- Built and maintained features for multi-brand apps: *Kyochon Chicken* (2M sign-ups), *Eupcheonri 382*, *Jadam Chicken*, and more
 - Stamp promotions, gift cards and coupons, menu system, member management, order status screens; managed App Store and Play Store releases
 - Third-party gift card registration and redemption; real-time order status (received → cooking → delivering) via silent push; sign-up revamp with KCB identity verification
 - **Crash-free users 88% → 98%** (Firebase Crashlytics)
-- Fixed circular event flows across multiple BLoCs and BlocListeners, introduced Injectable (get_it) DI, redesigned the coupon and menu option systems with OOP, design system adoption at 50% of the codebase
+- Fixed circular event flows across multiple BLoCs and BlocListeners, introduced Injectable (get_it) DI, redesigned the coupon and menu option systems with OOP, drove design system adoption to 50% of the codebase
 
 ▸ Kyochon Chicken ordering app
 
@@ -107,7 +107,7 @@ I've owned apps for services with 50K–100K DAU, such as *Today School* and *Ky
 
 **ZetServe** — Mobile Engineer (2020.05 – 2021.07)
 - RPG-style voice chat app on the Flame game engine + WebRTC (Agora): character interactions and map movement, P2P communication over a Pub/Sub server
-- Chat data model across local (SQLite · Moor) and cloud (Firestore) storage, bulletin board
+- Chat data model across local (SQLite · Moor) and cloud (Firestore) storage, community board
 - Launched a webtoon platform in Southeast Asia as a client project the company won
 
 ---
@@ -204,10 +204,10 @@ I've owned apps for services with 50K–100K DAU, such as *Today School* and *Ky
 ### 🎓 Education · Awards
 
 - **University of Seoul**, B.S. in Electrical and Computer Engineering (2014 – 2020) — research assistant at the Parallel Software Lab, teaching assistant for Microprocessors
-- **National Supercomputing Competition, awarded 3 times** (KISTI · UNIST) — Excellence Award 2016, Grand Prize 2017 · 2018 (multi-process parallel acceleration with OpenMPI)
+- **National Supercomputing Competition, awarded 3 times** (KISTI · UNIST) — Excellence Award 2016, Top Excellence Award 2017 · 2018 (multi-process parallel acceleration with OpenMPI)
 - **Fintech × Insurtech Hackathon, Excellence Award** (KISA, 2019) — driving score calculation on Hyperledger Fabric (Flutter · Node.js · GCP)
 - **ETRI summer intern** (2019) — performance analysis of on-board speech recognition (Kaldi) for vehicles
-- Industrial Engineer Information Processing certificate · Army information security specialist (security monitoring support for the 2018 PyeongChang Olympics)
+- Industrial Engineer Information Processing (Korean national IT certification) · Army information security specialist (security monitoring support for the 2018 PyeongChang Olympics)
 
 ---
 
