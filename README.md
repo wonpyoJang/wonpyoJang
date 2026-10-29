@@ -153,9 +153,12 @@
 
 ---
 
-### 🛠 프로젝트
+### 🛠 사이드 프로젝트
 
-**[AI 기반 감정 분석 일기 앱](https://github.com/wonpyoJang/diary_mobile_client)** — Flutter, BLoC, 생성형 AI 연동
+> 회사 업무가 아니라 개인적으로 만든 사이드 프로젝트입니다. 제목을 누르면 화면이 펼쳐집니다.
+
+<details>
+<summary><b><a href="https://github.com/wonpyoJang/diary_mobile_client">AI 기반 감정 분석 일기 앱</a></b> — Flutter, BLoC, 생성형 AI 연동</summary>
 
 <table>
   <tr>
@@ -170,7 +173,10 @@
   </tr>
 </table>
 
-**[아날로그 타이머](https://github.com/wonpyoJang/analog-timer)** — 아날로그 시계 위에 세그먼트 타이머와 스톱워치를 함께 그리는 앱. Flutter(iOS · Android · macOS) + 웹
+</details>
+
+<details>
+<summary><b><a href="https://github.com/wonpyoJang/analog-timer">아날로그 타이머</a></b> — 아날로그 시계 위에 세그먼트 타이머와 스톱워치를 함께 그리는 앱. Flutter(iOS · Android · macOS) + 웹</summary>
 
 <table>
   <tr>
@@ -187,7 +193,10 @@
   </tr>
 </table>
 
-**게이미피케이션** — 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임
+</details>
+
+<details>
+<summary><b>게이미피케이션</b> — 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임</summary>
 
 <table>
   <tr>
@@ -199,6 +208,8 @@
     <td align="center"><sub>사다리 타기 애니메이션</sub></td>
   </tr>
 </table>
+
+</details>
 
 ---
 
