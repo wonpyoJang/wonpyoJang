@@ -33,19 +33,6 @@
 - SaMD(근골격계 측정) 시술자 앱(Galaxy Tab) 앱 개발: 영어(미국) · 프랑스어 현지화, 고객 시연용 기능, 병원 납품용 기능
 - 허리보호대 제작용 시제품 풀스택 개발: Flutter 앱 + 어드민 웹(Next.js · Prisma · PostgreSQL) (아래 화면은 데모 데이터)
 
-▸ 게이미피케이션 — 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임
-
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="배지 획득 연출" /></td>
-    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="사다리 타기 애니메이션" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>배지 획득 연출</sub></td>
-    <td align="center"><sub>사다리 타기 애니메이션</sub></td>
-  </tr>
-</table>
-
 ▸ 의료진 1:1 채팅
 
 <table>
@@ -197,6 +184,19 @@
     <td align="center"><sub>항상 위 위젯 모드</sub></td>
     <td align="center"><sub>Android 오버레이 시계 · 타이머 pill</sub></td>
     <td align="center"><sub>멀티 타이머 동시 실행</sub></td>
+  </tr>
+</table>
+
+**게이미피케이션** — 기록 · 품질 추이, 칭호 · 배지, 캐릭터 키우기, 사다리 타기 미니게임
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="배지 획득 연출" /></td>
+    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="사다리 타기 애니메이션" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>배지 획득 연출</sub></td>
+    <td align="center"><sub>사다리 타기 애니메이션</sub></td>
   </tr>
 </table>
 

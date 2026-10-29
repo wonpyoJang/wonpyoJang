@@ -33,19 +33,6 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 - SaMD (musculoskeletal measurement) clinician app (Galaxy Tab), app development: English (US) and French localization, features for customer demos and hospital delivery
 - Full-stack prototype for back brace manufacturing: Flutter app + admin web (Next.js · Prisma · PostgreSQL) (screens below use demo data)
 
-▸ Gamification — history and quality trends, titles and badges, a character to raise, a ladder mini-game
-
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="Badge unlock animation" /></td>
-    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="Ladder game animation" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Badge unlock animation</sub></td>
-    <td align="center"><sub>Ladder game animation</sub></td>
-  </tr>
-</table>
-
 ▸ 1:1 chat with clinicians
 
 <table>
@@ -197,6 +184,19 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
     <td align="center"><sub>Always-on-top widget mode</sub></td>
     <td align="center"><sub>Android overlay clock and timer pill</sub></td>
     <td align="center"><sub>Multiple timers at once</sub></td>
+  </tr>
+</table>
+
+**Gamification** — history and quality trends, titles and badges, a character to raise, a ladder mini-game
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/scan-badge.gif" width="240" alt="Badge unlock animation" /></td>
+    <td align="center" width="50%"><img src="assets/scan-ladder.gif" width="240" alt="Ladder game animation" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Badge unlock animation</sub></td>
+    <td align="center"><sub>Ladder game animation</sub></td>
   </tr>
 </table>
 
