@@ -153,9 +153,12 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 
 ---
 
-### 🛠 Projects
+### 🛠 Side Projects
 
-**[AI emotion-analysis diary app](https://github.com/wonpyoJang/diary_mobile_client)** — Flutter, BLoC, generative AI integration
+> Personal side projects built on my own time — not company work. Click a title to expand the screens.
+
+<details>
+<summary><b><a href="https://github.com/wonpyoJang/diary_mobile_client">AI emotion-analysis diary app</a></b> — Flutter, BLoC, generative AI integration</summary>
 
 <table>
   <tr>
@@ -170,7 +173,10 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
   </tr>
 </table>
 
-**[Analog Timer](https://github.com/wonpyoJang/analog-timer)** — draws segment timers and a stopwatch together on an analog clock face. Flutter (iOS · Android · macOS) + web
+</details>
+
+<details>
+<summary><b><a href="https://github.com/wonpyoJang/analog-timer">Analog Timer</a></b> — draws segment timers and a stopwatch together on an analog clock face. Flutter (iOS · Android · macOS) + web</summary>
 
 <table>
   <tr>
@@ -187,7 +193,10 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
   </tr>
 </table>
 
-**Gamification** — history and quality trends, titles and badges, a character to raise, a ladder mini-game
+</details>
+
+<details>
+<summary><b>Gamification</b> — history and quality trends, titles and badges, a character to raise, a ladder mini-game</summary>
 
 <table>
   <tr>
@@ -199,6 +208,8 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
     <td align="center"><sub>Ladder game animation</sub></td>
   </tr>
 </table>
+
+</details>
 
 ---
 
