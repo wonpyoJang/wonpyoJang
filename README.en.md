@@ -228,4 +228,3 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 For hiring or collaboration, please reach out by email.
 
 - Email: jangwonpyo0@gmail.com
-- Instagram: [@dev.logos](https://www.instagram.com/dev.logos)
