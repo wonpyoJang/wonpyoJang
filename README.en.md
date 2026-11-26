@@ -2,15 +2,14 @@
 
 ## Wonpyo Jang · Flutter App Developer (6 years)
 
-> Owned apps with 50K–100K DAU · Led a 4-person mobile team · Crash-free 88% → 98% · Built and delivered a SaMD clinician app
+> Owned apps with 50K–100K DAU · Led a 4-person mobile team · Crash-free 88% → 98% · Built and delivered a medical device software (SaMD) clinician app
 
-Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). I've owned apps serving 50K–100K DAU, such as *Today School* and *Kyochon Chicken*, and restructured their legacy codebases so multiple engineers could ship in parallel without breaking what already worked.
-
-*Comfortable communicating in written English — technical docs, papers, and App Store reviewer correspondence.*
+Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). I've restructured legacy codebases so multiple engineers could ship in parallel without breaking what already worked. I'm comfortable working in written English — technical docs, papers, and App Store reviewer correspondence.
 
 - Multi-brand ordering apps including *Kyochon Chicken* (2M sign-ups) — **crash-free users 88% → 98%** · fixed circular event flows · introduced DI
 - Led the 4-person mobile team for *Today School* (1.5M sign-ups) — architecture migration, CI/CD with GitHub Actions + Fastlane, staged rollouts
-- Software as a Medical Device (SaMD): musculoskeletal measurement app for clinicians (Galaxy Tab) — English (US) and French localization, demo and hospital delivery features / full-stack prototype for back brace manufacturing (app + admin web)
+- SaMD musculoskeletal measurement app for clinicians (Galaxy Tab) — English (US) and French localization, features for customer demos and hospital deployments
+- Full-stack prototype for back brace manufacturing (app + admin web)
 - National Supercomputing Competition, awarded 3 times (Top Excellence Award twice)
 
 ---
@@ -29,11 +28,11 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 
 ### 💼 Experience
 
-**Orthocare** — Medical device software · orthosis manufacturing prototype (2026.04 – 2026.10)
-- SaMD (musculoskeletal measurement) clinician app (Galaxy Tab), app development: English (US) and French localization, features for customer demos and hospital delivery
-- Full-stack prototype for back brace manufacturing: Flutter app + admin web (Next.js · Prisma · PostgreSQL) (screens below use demo data)
+**Orthocare** — Medical device software · back brace manufacturing prototype (2026.04 – 2026.10)
+- Developed the SaMD (musculoskeletal measurement) clinician app for Galaxy Tab: English (US) and French localization, features for customer demos and hospital deployments
+- Full-stack prototype for back brace manufacturing: Flutter app + admin web (Next.js · Prisma · PostgreSQL)
 
-▸ 1:1 chat with clinicians
+▸ Prototype app — 1:1 chat with clinicians (demo data)
 
 <table>
   <tr>
@@ -48,7 +47,7 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
   </tr>
 </table>
 
-▸ Admin web — 3D conversion pipeline, operations monitoring, usability feedback, member management
+▸ Prototype admin web — 3D conversion pipeline, operations monitoring, usability feedback, member management (demo data)
 
 <table>
   <tr>
@@ -75,12 +74,13 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
   </tr>
 </table>
 
-**FoodDash** — White-label delivery ordering apps for franchises · Mobile Engineer (2023.11 – 2025.12 · App 2 · BE 4 · FE 2)
+**FoodDash** — First-party delivery ordering apps for franchise brands · Mobile Engineer (2023.11 – 2025.12; team: 2 mobile · 4 backend · 2 frontend)
 - Built and maintained features for multi-brand apps: *Kyochon Chicken* (2M sign-ups), *Eupcheonri 382*, *Jadam Chicken*, and more
 - Stamp promotions, gift cards and coupons, menu system, member management, order status screens; managed App Store and Play Store releases
 - Third-party gift card registration and redemption; real-time order status (received → cooking → delivering) via silent push; sign-up revamp with KCB identity verification
 - **Crash-free users 88% → 98%** (Firebase Crashlytics)
-- Fixed circular event flows across multiple BLoCs and BlocListeners, introduced Injectable (get_it) DI, redesigned the coupon and menu option systems with OOP, drove design system adoption to 50% of the codebase
+- Fixed circular event flows across multiple BLoCs and BlocListeners, introduced Injectable (get_it) DI
+- Redesigned the coupon and menu option systems with OOP, drove design system adoption to 50% of the codebase
 
 ▸ Kyochon Chicken ordering app
 
@@ -114,11 +114,14 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 
 **Athenaslab** — *Today School* app · Client Chapter Lead (2021.08 – 2023.10)
 - *Today School* (1.5M sign-ups): timetable, school meals, academic calendar, and a community with posts, comments and GIF stickers (Flutter, BLoC, RxDart, Injectable, Hive)
-- Migrated to a layered architecture with DI and an RxDart global event bus; dynamic board creation, multiple profiles for timetable and community, home summary
+- Migrated to a layered architecture with DI and an RxDart global event bus
+- Built dynamically created boards, multiple profiles for timetable and community, and a home summary
 - Led a 4-person mobile team: 2-week sprints, OKRs, onboarding docs, code, design and API spec reviews, design system collaboration
 - Automated builds and store releases with GitHub Actions + Fastlane; flavor separation to stop dev builds from reaching production; moved from all-at-once to staged rollouts
 - Parallel development process with Remote Config feature flags + Git Flow
-- Quality monitoring with Crashlytics and Sentry, an event taxonomy for GA and Amplitude, and a built-in log and API call monitor in release-mode dev builds that cut unnecessary API calls
+- Quality monitoring with Crashlytics and Sentry, an event taxonomy for GA and Amplitude, and a log and API call counter built into internal builds (release mode), cutting unnecessary API calls
+
+▸ Today School app
 
 <table>
   <tr>
@@ -155,7 +158,7 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 
 ### 🛠 Side Projects
 
-> Personal side projects built on my own time — not company work. Click a title to expand the screens.
+> Personal side projects built on my own time — not company work. Click ▶ to expand the screens; click a title to open the repo.
 
 <details>
 <summary><b><a href="https://github.com/wonpyoJang/diary_mobile_client">AI emotion-analysis diary app</a></b> — Flutter, BLoC, generative AI integration</summary>
@@ -176,19 +179,19 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 </details>
 
 <details>
-<summary><b><a href="https://github.com/wonpyoJang/analog-timer">Analog Timer</a></b> — draws segment timers and a stopwatch together on an analog clock face. Flutter (iOS · Android · macOS) + web</summary>
+<summary><b><a href="https://github.com/wonpyoJang/analog-timer">Analog Timer</a></b> — segment timers and a stopwatch on a clock face, built with Flutter (iOS · Android · macOS) + web</summary>
 
 <table>
   <tr>
     <td align="center" width="25%"><img src="assets/timer-desktop.png" width="190" alt="Desktop — timer ring, stopwatch, segments" /></td>
     <td align="center" width="25%"><img src="assets/timer-widget.png" width="190" alt="Always-on-top widget mode" /></td>
-    <td align="center" width="25%"><img src="assets/timer-overlay.png" width="190" alt="Android overlay clock and timer pill" /></td>
+    <td align="center" width="25%"><img src="assets/timer-overlay.png" width="190" alt="Android overlay clock and timer chip" /></td>
     <td align="center" width="25%"><img src="assets/timer-multi.png" width="190" alt="Multiple timers at once" /></td>
   </tr>
   <tr>
     <td align="center"><sub>Desktop — timer ring, stopwatch, segments</sub></td>
     <td align="center"><sub>Always-on-top widget mode</sub></td>
-    <td align="center"><sub>Android overlay clock and timer pill</sub></td>
+    <td align="center"><sub>Android overlay clock and timer chip</sub></td>
     <td align="center"><sub>Multiple timers at once</sub></td>
   </tr>
 </table>
@@ -219,7 +222,8 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 - **National Supercomputing Competition, awarded 3 times** (KISTI · UNIST) — Excellence Award 2016, Top Excellence Award 2017 · 2018 (multi-process parallel acceleration with OpenMPI)
 - **Fintech × Insurtech Hackathon, Excellence Award** (KISA, 2019) — driving score calculation on Hyperledger Fabric (Flutter · Node.js · GCP)
 - **ETRI summer intern** (2019) — performance analysis of on-board speech recognition (Kaldi) for vehicles
-- Industrial Engineer Information Processing (Korean national IT certification) · Army information security specialist (security monitoring support for the 2018 PyeongChang Olympics)
+- Industrial Engineer Information Processing (Korean national IT certification)
+- Army information security specialist (security monitoring support for the 2018 PyeongChang Olympics)
 
 ---
 
