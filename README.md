@@ -228,4 +228,3 @@
 채용 · 프로젝트 협업 문의는 이메일로 부탁드립니다.
 
 - 이메일: jangwonpyo0@gmail.com
-- 인스타그램: [@dev.logos](https://www.instagram.com/dev.logos)
