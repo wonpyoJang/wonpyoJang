@@ -6,7 +6,7 @@
 
 교육 · 커머스 · 헬스케어 앱을 6년간 출시 · 운영했습니다. 기존 기능은 지키면서, 여러 명이 동시에 작업해도 유지보수하기 쉬운 구조로 바꿔 왔습니다.
 
-*Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). Comfortable communicating in written English — technical docs, papers, and App Store reviewer correspondence.*
+*Comfortable communicating in written English — technical docs, papers, and App Store reviewer correspondence.*
 
 - 누적 가입자 200만 「교촌치킨」 등 멀티 브랜드 주문 앱 — **Crash-free 사용자 88% → 98%** · 순환 이벤트 구조 개선 · DI 도입
 - 누적 가입자 150만 「오늘학교」 4인 모바일팀 리드 — 아키텍처 전환 · CI/CD 구축(GitHub Actions + Fastlane) · 점진적 배포 도입
@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-**푸드대시** — 프랜차이즈 자사 배달 주문 앱 · 모바일 엔지니어 (2023.11 ~ 2025.12 · 팀: 앱 2 · 백엔드 4 · 프론트엔드 2)
+**푸드대시** — 프랜차이즈 자사 배달 주문 앱 · 모바일 엔지니어 (2023.11 ~ 2025.12, 팀: 앱 2 · 백엔드 4 · 프론트엔드 2)
 - 교촌치킨(누적 가입자 200만) · 읍천리382 · 자담치킨 등 멀티 브랜드 앱 신규 기능 개발과 운영
 - 스탬프 프로모션, 상품권 · 쿠폰, 메뉴 시스템, 회원 관리, 주문 상태 알림 화면 개발, App Store · Play Store 관리
 - 외부 플랫폼 상품권 등록 · 사용, 사일런트 푸시로 주문 접수 → 조리 → 배달 상태 실시간 반영, 회원가입 개편(KCB 본인인증)
@@ -160,7 +160,7 @@
 
 ### 🛠 사이드 프로젝트
 
-> 회사 업무가 아니라 개인적으로 만든 사이드 프로젝트입니다. ▶ 를 누르면 화면이 펼쳐지고, 제목을 누르면 저장소로 이동합니다.
+> 회사 업무가 아니라 개인적으로 만든 사이드 프로젝트입니다. ▶ 표시를 누르면 화면이 펼쳐지고, 제목을 누르면 저장소로 이동합니다.
 
 <details>
 <summary><b><a href="https://github.com/wonpyoJang/diary_mobile_client">AI 기반 감정 분석 일기 앱</a></b> — Flutter, BLoC, 생성형 AI 연동</summary>
@@ -181,7 +181,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/wonpyoJang/analog-timer">아날로그 타이머</a></b> — 아날로그 시계 위 세그먼트 타이머 · 스톱워치 — Flutter(iOS · Android · macOS) + 웹</summary>
+<summary><b><a href="https://github.com/wonpyoJang/analog-timer">아날로그 타이머</a></b> — 시계 화면 위 세그먼트 타이머 · 스톱워치, Flutter(iOS · Android · macOS) + 웹</summary>
 
 <table>
   <tr>

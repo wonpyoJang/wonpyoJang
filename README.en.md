@@ -4,7 +4,7 @@
 
 > Owned apps with 50K–100K DAU · Led a 4-person mobile team · Crash-free 88% → 98% · Built and delivered a medical device software (SaMD) clinician app
 
-Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). I've owned apps serving 50K–100K DAU, such as *Today School* and *Kyochon Chicken*, and restructured their legacy codebases so multiple engineers could ship in parallel without breaking what already worked. I'm comfortable working in written English — technical docs, papers, and App Store reviewer correspondence.
+Flutter developer with 6 years of shipping production apps (edu · commerce · healthcare). I've restructured legacy codebases so multiple engineers could ship in parallel without breaking what already worked. I'm comfortable working in written English — technical docs, papers, and App Store reviewer correspondence.
 
 - Multi-brand ordering apps including *Kyochon Chicken* (2M sign-ups) — **crash-free users 88% → 98%** · fixed circular event flows · introduced DI
 - Led the 4-person mobile team for *Today School* (1.5M sign-ups) — architecture migration, CI/CD with GitHub Actions + Fastlane, staged rollouts
@@ -74,7 +74,7 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
   </tr>
 </table>
 
-**FoodDash** — First-party delivery ordering apps for franchise brands · Mobile Engineer (2023.11 – 2025.12 · team: 2 mobile · 4 backend · 2 frontend)
+**FoodDash** — First-party delivery ordering apps for franchise brands · Mobile Engineer (2023.11 – 2025.12; team: 2 mobile · 4 backend · 2 frontend)
 - Built and maintained features for multi-brand apps: *Kyochon Chicken* (2M sign-ups), *Eupcheonri 382*, *Jadam Chicken*, and more
 - Stamp promotions, gift cards and coupons, menu system, member management, order status screens; managed App Store and Play Store releases
 - Third-party gift card registration and redemption; real-time order status (received → cooking → delivering) via silent push; sign-up revamp with KCB identity verification
@@ -115,7 +115,7 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 **Athenaslab** — *Today School* app · Client Chapter Lead (2021.08 – 2023.10)
 - *Today School* (1.5M sign-ups): timetable, school meals, academic calendar, and a community with posts, comments and GIF stickers (Flutter, BLoC, RxDart, Injectable, Hive)
 - Migrated to a layered architecture with DI and an RxDart global event bus
-- Built dynamic board creation, multiple profiles for timetable and community, and a home summary
+- Built dynamically created boards, multiple profiles for timetable and community, and a home summary
 - Led a 4-person mobile team: 2-week sprints, OKRs, onboarding docs, code, design and API spec reviews, design system collaboration
 - Automated builds and store releases with GitHub Actions + Fastlane; flavor separation to stop dev builds from reaching production; moved from all-at-once to staged rollouts
 - Parallel development process with Remote Config feature flags + Git Flow
@@ -179,7 +179,7 @@ Flutter developer with 6 years of shipping production apps (edu · commerce · h
 </details>
 
 <details>
-<summary><b><a href="https://github.com/wonpyoJang/analog-timer">Analog Timer</a></b> — segment timers and a stopwatch on an analog clock face — Flutter (iOS · Android · macOS) + web</summary>
+<summary><b><a href="https://github.com/wonpyoJang/analog-timer">Analog Timer</a></b> — segment timers and a stopwatch on a clock face, built with Flutter (iOS · Android · macOS) + web</summary>
 
 <table>
   <tr>
